@@ -53,27 +53,9 @@ python Morse_Generator.py
 
 ---
 
-## 💡 Example Usage
+## 🧩 Layout Preview
 
-### 🟦 Text → Morse
-**Input:**
-```
-SOS HELP!
-```
-**Output:**
-```
-... --- ... / .... . .-.. .--. -.-.--
-```
-
-### 🟥 Morse → Text
-**Input:**
-```
-.... . .-.. .-.. --- / .-- --- .-. .-.. -..
-```
-**Output:**
-```
-HELLO WORLD
-```
+![345336013-1101e509-0bf7-45fe-88f9-dab585538d81](https://github.com/user-attachments/assets/a2696852-1a5d-4071-88f1-f58cab5c7658)
 
 ---
 
